@@ -31,14 +31,22 @@ I work across frontend and backend development, building responsive user interfa
 ## 🚀 Featured Projects
 
 ### VumiShop — Real Estate Marketplace
+
 A marketplace project focused on property discovery, search and filtering, and user-facing features.
 
+- **Live Website:** [Visit VumiShop](https://vumishop.com/)
+
 ### Chaashi — E-commerce Platform
+
 An e-commerce project focused on product presentation, customer experience, and online sales workflows.
 
+- **Live Website:** [Visit Chaashi](https://www.chaashi.com/)
+
 ### Digital Expert IT — Business Platform
+
 A business platform involving web interfaces, authentication, content management, dashboards, and API integrations.
 
+- **Live Website:** [Visit Digital Expert IT](https://digitalexpertit.com/)
 *Project status, technology lists, and links will be updated to reflect the actual implementation of each project.*
 
 ## 🎯 Current Interests
