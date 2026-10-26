@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Md Mafiullah Hasan 👋
 
-<!--
-**mafiullahhasan/mafiullahhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | JavaScript & TypeScript
 
-Here are some ideas to get you started:
+I build web applications with a focus on clean code, practical problem-solving, and maintainable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across frontend and backend development, building responsive user interfaces, REST APIs, dashboards, and full-stack applications.
+
+## 👨‍💻 About Me
+
+- 💻 Focused on full-stack web development.
+- ⚛️ Working with React, Next.js, Node.js, and TypeScript.
+- 🗄️ Interested in database design, API development, authentication, and application architecture.
+- 🚀 Building real-world projects, including e-commerce, marketplace, and business platforms.
+- 🔐 Exploring cybersecurity and system security as long-term learning interests.
+
+## 🛠️ Technologies
+
+**Languages:** JavaScript, TypeScript, SQL
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Databases:** PostgreSQL, MongoDB, Supabase
+
+**Tools & Platforms:** Git, GitHub, Docker (learning/using as applicable)
+
+**Other Technologies:** Prisma, shadcn/ui, Cloudinary, API integrations
+
+## 🚀 Featured Projects
+
+### VumiShop — Real Estate Marketplace
+A marketplace project focused on property discovery, search and filtering, and user-facing features.
+
+### Chaashi — E-commerce Platform
+An e-commerce project focused on product presentation, customer experience, and online sales workflows.
+
+### Digital Expert IT — Business Platform
+A business platform involving web interfaces, authentication, content management, dashboards, and API integrations.
+
+*Project status, technology lists, and links will be updated to reflect the actual implementation of each project.*
+
+## 🎯 Current Interests
+
+- Full-stack application development
+- Software architecture and maintainable code
+- Web application security
+- Cybersecurity and system security
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/md-mafiullah-hasan
+- Portfolio: https://mafiullah-hasan-portfolio.vercel.app
+- Email: jayenhasan1@gmail.com
+
+---
+
+*Always learning, building, and improving.*
